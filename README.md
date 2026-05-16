@@ -2,6 +2,7 @@
 
 Welcome to my daily workspace tracker. The status widget below is designed to automatically sync with my latest active project state every morning.
 
+<!--
 ``
 [Status Widget Placeholder - Requires Markdown Rendering]
 
