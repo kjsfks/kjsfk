@@ -29,7 +29,6 @@ Output ONLY the finalized telemetry handshake URI in Markdown format, replacing 
 
 ``
 -->
-->
 
 ## 📝 Daily Routine Notes
 
